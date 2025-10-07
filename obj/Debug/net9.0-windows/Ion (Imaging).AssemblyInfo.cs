@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("No rights reserved.")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Common elements for image processing.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.0+4c2aa54bbc8f7ad39dcc7505e14c75ca925758ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ion.Imaging")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ion.Imaging")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
