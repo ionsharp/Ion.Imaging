@@ -1,0 +1,17 @@
+C:\Users\james\OneDrive\GitHub\Ion.Imaging\obj\Debug\net8.0-windows\Ion (Imaging).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\OneDrive\GitHub\Ion.Imaging\obj\Debug\net8.0-windows\Ion (Imaging).AssemblyInfoInputs.cache
+C:\Users\james\OneDrive\GitHub\Ion.Imaging\obj\Debug\net8.0-windows\Ion (Imaging).AssemblyInfo.cs
+C:\Users\james\OneDrive\GitHub\Ion.Imaging\obj\Debug\net8.0-windows\Ion (Imaging).csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\GitHub\Ion.Imaging\obj\Debug\net8.0-windows\Ion (Imaging).csproj.AssemblyReference.cache
+C:\Users\james\OneDrive\GitHub\Ion.Imaging\bin\Debug\net8.0-windows\Ion.Imaging.deps.json
+C:\Users\james\OneDrive\GitHub\Ion.Imaging\bin\Debug\net8.0-windows\Ion.Imaging.dll
+C:\Users\james\OneDrive\GitHub\Ion.Imaging\bin\Debug\net8.0-windows\Ion.Imaging.pdb
+C:\Users\james\OneDrive\GitHub\Ion.Imaging\bin\Debug\net8.0-windows\Ion.Color.dll
+C:\Users\james\OneDrive\GitHub\Ion.Imaging\bin\Debug\net8.0-windows\Ion.Color.pdb
+C:\Users\james\OneDrive\GitHub\Ion.Imaging\obj\Debug\net8.0-windows\Ion (Ima.2BE6C8A2.Up2Date
+C:\Users\james\OneDrive\GitHub\Ion.Imaging\obj\Debug\net8.0-windows\Ion.Imaging.dll
+C:\Users\james\OneDrive\GitHub\Ion.Imaging\obj\Debug\net8.0-windows\refint\Ion.Imaging.dll
+C:\Users\james\OneDrive\GitHub\Ion.Imaging\obj\Debug\net8.0-windows\Ion.Imaging.pdb
+C:\Users\james\OneDrive\GitHub\Ion.Imaging\obj\Debug\net8.0-windows\ref\Ion.Imaging.dll
+C:\Users\james\OneDrive\GitHub\Ion.Imaging\bin\Debug\net8.0-windows\Ion.dll
+C:\Users\james\OneDrive\GitHub\Ion.Imaging\bin\Debug\net8.0-windows\Ion.pdb
