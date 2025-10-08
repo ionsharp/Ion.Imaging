@@ -1,4 +1,6 @@
-Ion.Imaging ![](https://img.shields.io/badge/style-1.0-blue.svg?style=flat&label=Version)
+Ion.Imaging 
+![](https://img.shields.io/badge/style-Stable-green.svg?style=flat&label=Build)
+![](https://img.shields.io/badge/style-1.0-blue.svg?style=flat&label=Version)
 ---
 ...
 

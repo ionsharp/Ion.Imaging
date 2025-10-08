@@ -9,7 +9,7 @@
     <Authors>Ion</Authors>
     <Company>Ion</Company>
     <Copyright>No rights reserved.</Copyright>
-    <Description>Common elements for image processing.</Description>
+    <Description></Description>
     <NeutralLanguage>en</NeutralLanguage>
     <RepositoryUrl>https://github.com/ionsharp/</RepositoryUrl>
   </PropertyGroup>
@@ -17,13 +17,17 @@
   <PropertyGroup>
     <AssemblyName>Ion.Imaging</AssemblyName>
     <AssemblyTitle>Ion.Imaging</AssemblyTitle>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <RootNamespace>Ion.Imaging</RootNamespace>
   </PropertyGroup>
 
   <PropertyGroup>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <FileVersion>1.0.0.0</FileVersion>
     <Version>1.0.0.0</Version>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <WarningLevel>0</WarningLevel>
   </PropertyGroup>
 
   <PropertyGroup>
@@ -37,6 +41,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Ion.Color\Ion (Color).csproj" />
     <ProjectReference Include="..\Ion\Ion.csproj" />
+    <PackageReference Include="EntityFramework" Version="6.5.1" />
     <PackageReference Include="System.Drawing.Common" Version="9.0.0" />
   </ItemGroup>
 </Project>
